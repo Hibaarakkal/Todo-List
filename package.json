@@ -1,8 +1,7 @@
 {
-  "homepage": "https://hibaarakkal.github.io/Todo-List",
   "name": "Todo-List",
-  "version": "0.1.0",
   "private": true,
+  "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
